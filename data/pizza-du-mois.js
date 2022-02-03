@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'Pizza du mois de Janvier: La Raclette !',
-  description: 'Crème fraiche, Fromage Raclette, Écrasé de pommes de terre, Coppa, Ventrêche, Jambon du pays',
+  name: 'Pizza du mois de Décembre: La Pyrénéenne !',
+  description: 'Crème fraiche, Mozzarella, Écrasé de pommes de terre, Coppa, Ventrêche, Lard de noir de bigorre, Fromage de vache.',
   image: 'mois_decembre.jpg',
   prices: {
-    moyenne: 14.90,
-    grande: 18.90
+    moyenne: 13.80,
+    grande: 15.80
   }
 }
