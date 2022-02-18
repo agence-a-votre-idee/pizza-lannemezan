@@ -4,8 +4,8 @@ module.exports = [
     description: 'Tomate, poulet, poivrons, oignons, persillade, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 10.5,
-      grande: 12.8
+      moyenne: 11,
+      grande: 13
     }
   },
   {
@@ -13,8 +13,8 @@ module.exports = [
     description: 'Crème fraîche, champignons de Paris, poulet, persillade, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 10.5,
-      grande: 12.8
+      moyenne: 11,
+      grande: 13
     }
   },
   {
@@ -22,8 +22,8 @@ module.exports = [
     description: 'Crème fraîche, poulet mariné aux épices, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 10.5,
-      grande: 12.8
+      moyenne: 11,
+      grande: 13
     }
   }
 ]

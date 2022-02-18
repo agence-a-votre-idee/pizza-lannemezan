@@ -8,7 +8,7 @@ module.exports = [
   {
     name: 'Tarte aux pommes compote',
     prices: {
-      plaque: 36
+      plaque: 40
     }
   },
   {

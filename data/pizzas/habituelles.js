@@ -4,8 +4,8 @@ module.exports = [
     description: 'Tomate, olives, mozzarella',
     prices: {
       petite: 4,
-      moyenne: 5.8,
-      grande: 6.8
+      moyenne: 6.0,
+      grande: 7.0
     }
   },
   {
@@ -14,7 +14,7 @@ module.exports = [
     prices: {
       petite: 4.5,
       moyenne: 8,
-      grande: 9.8
+      grande: 10.0
     }
   },
   {
@@ -22,7 +22,7 @@ module.exports = [
     description: 'Tomate, jambon blanc, champignons de Paris , olives, mozzarella',
     prices: {
       petite: 5,
-      moyenne: 8.5,
+      moyenne: 9,
       grande: 11
     }
   },
@@ -31,16 +31,16 @@ module.exports = [
     description: 'Crème fraîche, purée de poivrons, merguez, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 9,
-      grande: 11.20
+      moyenne: 10,
+      grande: 12
     }
   },
   {
     name: 'Calzone (chausson)',
     description: 'Tomate, jambon blanc, champignons de Paris persillés, crème fraîche, œuf, mozzarella',
     prices: {
-      moyenne: 9.5,
-      grande: 11.50
+      moyenne: 10,
+      grande: 12
     }
   },
   {
@@ -48,8 +48,8 @@ module.exports = [
     description: 'Crème fraîche, jambon blanc, lardons, œuf, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 9.5,
-      grande: 11.50
+      moyenne: 10,
+      grande: 12
     }
   },
   {
@@ -62,20 +62,20 @@ module.exports = [
     }
   },
   {
-    name: 'Bolognaise',
-    description: 'Bolognaise maison (bœuf haché + oignons + tomate), mozzarella',
+    name: 'Texane',
+    description: 'Tomate, viande hachée de boeuf, oignon, poivron, ventrêche, oeuf(s), persillade',
     prices: {
       petite: 6,
-      moyenne: 9.8,
-      grande: 12
+      moyenne: 11,
+      grande: 13
     }
   },
   {
     name: 'Paysanne',
     description: 'Tomate, champignons, lardons, oeuf, persillade, mozzarella',
     prices: {
-      moyenne: 9.5,
-      grande: 11.5
+      moyenne: 10,
+      grande: 12
     }
   },
   {
@@ -83,7 +83,7 @@ module.exports = [
     description: 'Crème fraîche, purée de poivrons, chorizo, merguez, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 9.8,
+      moyenne: 10,
       grande: 12
     }
   }

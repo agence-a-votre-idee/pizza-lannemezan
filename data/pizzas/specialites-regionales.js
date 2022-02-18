@@ -4,7 +4,7 @@ module.exports = [
     description: 'Tomate, gésiers confits, lardons, magrets fumés, mozzarella',
     prices: {
       petite: 6.5,
-      moyenne: 10,
+      moyenne: 11.5,
       grande: 13.5
     }
   },
@@ -13,8 +13,8 @@ module.exports = [
     description: 'Crème fraîche, champignons, pommes de terre, magrets frais, persillade, mozzarella',
     prices: {
       petite: 6.5,
-      moyenne: 11,
-      grande: 13
+      moyenne: 12,
+      grande: 14
     },
     option: {
       name: 'Bloc de foie gras',
@@ -30,7 +30,7 @@ module.exports = [
     description: 'Tomate ou crème fraîche, magrets frais, mozzarella',
     prices: {
       petite: 6.5,
-      moyenne: 11,
+      moyenne: 11.5,
       grande: 13.5
     }
   }

@@ -4,7 +4,7 @@ module.exports = [
     description: 'Crème fraîche, ananas, lardons, magrets fumés, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 10.5,
+      moyenne: 11,
       grande: 13
     }
   },
@@ -13,34 +13,34 @@ module.exports = [
     description: 'Crème fraîche, chèvre, miel, lardons, oignons, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 10.5,
+      moyenne: 11,
       grande: 13
     }
   },
   {
     name: 'Chef',
-    description: 'Crème fraîche, saumon fumé, chèvre, ananas, mozzarella',
+    description: 'Crème fraîche, saumon gralax, chèvre, ananas, mozzarella',
     prices: {
-      petite: 6.5,
+      petite: 6,
       moyenne: 11,
-      grande: 13.2
+      grande: 13
     }
   },
   {
-    name: 'Chicken Moréa',
+    name: 'Chicken Mooréa',
     description: 'Crème fraîche, poulets mariné aux épices, ananas, mozzarella',
     prices: {
-      petite: 6.5,
+      petite: 6,
       moyenne: 11,
-      grande: 13.2
+      grande: 13
     }
   },
   {
     name: 'Baroussaise',
     description: 'Crème fraîche, pomme fruits, fromage de vache, lardons, mozzarella',
     prices: {
-      petite: 6.5,
-      moyenne: 10.5,
+      petite: 6,
+      moyenne: 11,
       grande: 13
     }
   }

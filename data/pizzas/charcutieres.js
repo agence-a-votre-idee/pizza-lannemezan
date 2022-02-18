@@ -1,11 +1,11 @@
 module.exports = [
   {
-    name: 'Chorizo',
+    name: 'Mixed',
     description: 'Crème fraîche, purée de poivrons, chorizo, mozzarella',
     prices: {
-      petite: 5.5,
-      moyenne: 8.8,
-      grande: 11.2
+      petite: 6.0,
+      moyenne: 10.0,
+      grande: 12.0
     }
   },
   {
@@ -13,7 +13,7 @@ module.exports = [
     description: 'Tomate ou crème fraîche, 3 charcuteries, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 9.8,
+      moyenne: 10.0,
       grande: 12
     }
   }

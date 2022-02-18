@@ -3,9 +3,9 @@ module.exports = [
     name: 'Fromagère',
     description: 'Tomate ou crème fraîche, 3 fromages, mozzarella',
     prices: {
-      petite: 5.5,
-      moyenne: 10,
-      grande: 12.2
+      petite: 6.0,
+      moyenne: 10.5,
+      grande: 12.5
     }
   },
   {
@@ -13,8 +13,8 @@ module.exports = [
     description: 'Crème fraîche, pommes de terre, raclette, reblochon, lardons, mozzarella',
     prices: {
       petite: 6,
-      moyenne: 10.5,
-      grande: 13
+      moyenne: 11.5,
+      grande: 13.5
     }
   },
   {
@@ -22,8 +22,8 @@ module.exports = [
     description: 'Tomate ou crème fraîche, mozzarella',
     prices: {
       petite: 5.5,
-      moyenne: 8.8,
-      grande: 10.8
+      moyenne: 9.0,
+      grande: 11.0
     },
     option: {
       name: 'Miel',
