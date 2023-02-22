@@ -1,6 +1,6 @@
 <template>
   <container>
-    <h2 class="Title">La pizza du mois</h2>
+    <h2 class="Title">La pizza du moment</h2>
     <row class="Card Card--mois" center-xs>
       <column sm="4">
         <img :src="'/images/' + pizza.image" alt="Pizza du mois" class="Card__Image">

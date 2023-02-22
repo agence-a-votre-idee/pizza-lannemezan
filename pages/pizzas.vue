@@ -76,13 +76,11 @@
           </column>
         </row>
         <row>
-          <column sm="3" md="2">
+          <column sm="3" md="4">
           </column>
           <column sm="3" md="4">
             <h3 class="Title2"> Offre spéciale </h3>
             <p class="offre"> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p> 
-          </column>
-          <column sm="3" md="2">
           </column>
         </row>
       </container>
@@ -128,7 +126,8 @@ export default {
   }
   .Title2
   {
-    padding-bottom: 30px;
+    padding-bottom: 16px;
+    padding-top: 30px;
     text-align : center;
     font-size : 28px;
   }
