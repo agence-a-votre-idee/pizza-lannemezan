@@ -12,7 +12,7 @@
     </container>
     <section> <container>
     <h3> Offre spéciale </h3>
-    <p> 5 pizzas au choix a 52€ ('Ø 29cm') <br> 10€ la pizzas supplémentaire </p>
+    <p> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p>
     </container>
     </section>
     <pizza-du-mois v-else/>
