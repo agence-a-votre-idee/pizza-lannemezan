@@ -77,8 +77,8 @@
         </row>
         <row>
         <column sm="6" md="4" >
-          <h3> Offre spéciale </h3>
-          <p> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p>
+          <h3 class="Title"> Offre spéciale </h3>
+          <p class="Title"> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p>
         </column>
       </row>
       </container>
