@@ -122,7 +122,7 @@ export default {
   }
   .Title2
   {
-    padding-bottom: 30px
+    padding-bottom: 30px;
     text-align : center;
     font-size : 28px;
   }
