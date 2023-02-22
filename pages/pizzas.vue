@@ -76,12 +76,9 @@
           </column>
         </row>
         <row>
-        <column sm="3" md="4" >
-          <h3 class="Title"> Offre spéciale </h3>
+          <h3 class="Title2"> Offre spéciale </h3>
           <p class="offre"> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p>
-        </column>
-        </column>
-      </row>
+        </row>
       </container>
     </section>
     <nuxt-child/>
@@ -122,11 +119,17 @@ export default {
   .Title
   {
     padding-bottom: 30px;
+  }
+  .Title2
+  {
+    padding-bottom: 30px
     text-align : center;
+    font-size : 28px;
   }
   .offre
   {
     text-align : center;
+    font-size : 19px;
   }
   .Icons.Icons--calendar
   {
