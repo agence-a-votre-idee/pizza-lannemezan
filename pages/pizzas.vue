@@ -7,7 +7,7 @@
           <column sm="6" md="3">
             <nuxt-link class="Link" to="/pizzas" exact>
               <div class="Link__Box">
-                <calendar/>La pizza du mois
+                <calendar/>La pizza du moment
               </div>
             </nuxt-link>
           </column>

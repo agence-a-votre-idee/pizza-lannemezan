@@ -10,6 +10,8 @@
         </column>
       </row>
     </container>
+    <div> <h3> Offre spéciale </h3>
+    <p> 5 pizzas au choix a 52€ (moyenne: 'Ø 26cm') <br> 10€ la pizzas supplémentaire </p>
     <pizza-du-mois v-else/>
   </section>
 </template>
