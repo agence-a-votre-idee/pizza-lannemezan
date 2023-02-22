@@ -76,9 +76,10 @@
           </column>
         </row>
         <row>
-        <column sm="6" md="4" >
+        <column sm="3" md="4" >
           <h3 class="Title"> Offre spéciale </h3>
-          <p class="Title"> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p>
+          <p class="offre"> 5 pizzas au choix à 52€ (Ø 29cm) <br> 10€ la pizza supplémentaire </p>
+        </column>
         </column>
       </row>
       </container>
@@ -121,6 +122,11 @@ export default {
   .Title
   {
     padding-bottom: 30px;
+    text-align : center;
+  }
+  .offre
+  {
+    text-align : center;
   }
   .Icons.Icons--calendar
   {
