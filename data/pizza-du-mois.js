@@ -3,7 +3,7 @@ module.exports = {
   description: 'Crème fraiche, Mozzarella, Écrasé de pommes de terre, Coppa, Ventrêche, Lard de noir de bigorre, Fromage de vache.',
   image: 'mois_decembre.jpg',
   prices: {
-    moyenne: 13.80,
-    grande: 15.80
+    moyenne: 14.80,
+    grande: 16.80
   }
 }

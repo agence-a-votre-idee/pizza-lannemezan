@@ -18,6 +18,14 @@ module.exports = [
     }
   },
   {
+    name: 'Cammenbert',
+    description: 'Crème fraîche,camembert, confiture de cerise noire, ventrèche, roquette, mozzarella, crème balsamique',
+    prices: {
+      moyenne: 13,
+      grande: 15
+    }
+  },
+  {
     name: 'Chèvre',
     description: 'Tomate ou crème fraîche, mozzarella',
     prices: {
