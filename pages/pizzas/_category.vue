@@ -9,8 +9,6 @@
           </div>
         </column>
       </row>
-    </container>
-    <container>
       <row>
         <column sm="6" md="4" >
           <h3> Offre spéciale </h3>
