@@ -1,6 +1,6 @@
 module.exports = {
   lundi: 'Fermé',
-  mardi: 'Fermé',
+  mardi: '17:30 – 21:00',
   mercredi: '17:30 – 21:00',
   jeudi: '17:30 – 21:00',
   vendredi: '17:30 – 21:00',
